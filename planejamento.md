@@ -35,3 +35,4 @@ Vendas | 15% / 1 mês
 * Apresentação
   * construir o template inicial - Marquinho
   * Construir o projeto arquitetural - Clelson 
+  * estudar biblioteca google VR para manipular arquivos 360º - Marquinho e Clelson
