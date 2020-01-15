@@ -1,7 +1,6 @@
 # Planejamento de desenvolvimento do Projeto DipMock
 
-## Estimativa de esforço
-
+## Módulos
 * Usuário
   * configurações
 * Core
@@ -9,6 +8,8 @@
   * Apresentação
   * Imersão
 * Vendas
+
+### Estimativa de esforço
 
 Módulo | Esforço
 -------|--------
