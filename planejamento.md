@@ -23,3 +23,15 @@ Tour | 33%
 Apresentação | 33%
 Imersão | 33%
 
+## Cronograma
+
+Módulo | Esforço / Tempo
+-------|--------
+Usuário | 15% / 1 mês
+Core | 70% / 3 meses
+Vendas | 15% / 1 mês
+
+1. Módulo Core
+* Apresentação
+  * construir o template inicial - Marquinho
+  * Construir o projeto arquitetural - Clelson 
